@@ -6,7 +6,7 @@ module.exports = {
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },                      // 根路径
-      { text: '首页',  link:'/testtest/'},
+      //{ text: '首页',  link:'/testtest/'},
     ],
     sidebar: {
       '/testtest/':[
