@@ -1,3 +1,3 @@
 [submodule "pod-library"]
-	path = .vuepress/dist
+	path = .vuepress/dist,home
 	url = git@github.com:wdmxx/docs.git
