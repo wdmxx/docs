@@ -1,6 +1,6 @@
 // .vuepress/config.js
 module.exports = {
-  base: '/vue/',
+  base: '/docs/',
   title: '个人主页', 
   description: 'wdm',
   themeConfig: {
