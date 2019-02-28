@@ -1,6 +1,3 @@
 [submodule ".vuepress/dist"]
 	path = docs
 	url = https://github.com/wdmxx/docs/
-[submodule ".vuepress/dist/docs"]
-	path = .vuepress/dist/docs
-	url = https://github.com/wdmxx/docs
